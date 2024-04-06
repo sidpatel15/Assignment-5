@@ -1,0 +1,1 @@
+Project TitleVideo Game Sales AnalysisShort DescriptionThis project analyzes video game sales data, including sales figures from different regions (North America, Europe, Japan, and others). The dataset covers popular games across various platforms and genres
